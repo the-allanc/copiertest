@@ -1,0 +1,11 @@
+.cache
+.coverage
+.eggs
+.idea
+.pytest_cache
+.python-version
+.tox
+*.egg-info
+*.pyc
+build
+dist

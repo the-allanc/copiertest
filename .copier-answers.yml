@@ -1,0 +1,9 @@
+_commit: 11-31-ge9bc411
+_src_path: skeleton
+is_application: false
+project_name: copiertest
+py23: true
+single_mod: true
+use_bumpversion: true
+use_setuptools_scm: false
+
