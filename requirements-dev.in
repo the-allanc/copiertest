@@ -1,0 +1,1 @@
+-e file:./#egg=copiertest[manage,docs,testing,lint]
